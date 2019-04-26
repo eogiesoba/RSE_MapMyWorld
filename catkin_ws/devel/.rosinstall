@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/workspace/RSE_MapMyWorld/catkin_ws/devel/setup.sh
